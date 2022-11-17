@@ -1,3 +1,3 @@
-# HR_case_study
+## HR Case study
 
-Example of PowerBI report based on fictional dataset.
+##### Example of PowerBI report based on fictional dataset.
